@@ -1,5 +1,6 @@
-Hi 👋, I'm sindhu</h1>
-https://1drv.ms/i/c/dd258d6a2f1c5181/Ee4o-xjDFc9BrR7KLvXJ0PgBEVqCRdIw_hX8ZVQTpAtfYA?e=clqm6jA result-oriented and self-driven analyst with practical experience through multiple projects using SQL, Excel, Power BI, and Python. Highly skilled in collecting, synthesizing and summarizing data. Seeking an opportunity where I can utilize my skills to achieve organization goal and enhance my analytical and technical skills.
+Hi 👋, I'm sindhu
+
+A result-oriented and self-driven analyst with practical experience through multiple projects using SQL, Excel, Power BI, and Python. Highly skilled in collecting, synthesizing and summarizing data. Seeking an opportunity where I can utilize my skills to achieve organization goal and enhance my analytical and technical skills.
 
 - 🌱 I’m currently learning **Data analytics.**
 
