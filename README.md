@@ -1,3 +1,11 @@
+
+
+
+![2792102](https://github.com/user-attachments/assets/b78380e4-4a78-45cb-8d2e-ffbb8859a0e6)
+
+
+
+
 Hi 👋, I'm sindhu
 
 A result-oriented and self-driven analyst with practical experience through multiple projects using SQL, Excel, Power BI, and Python. Highly skilled in collecting, synthesizing and summarizing data. Seeking an opportunity where I can utilize my skills to achieve organization goal and enhance my analytical and technical skills.
@@ -15,7 +23,7 @@ A result-oriented and self-driven analyst with practical experience through mult
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1q0_LOHQpph3l9OvD90z0GTSOgqe6Cpxk](https://drive.google.com/drive/folders/1q0_LOHQpph3l9OvD90z0GTSOgqe6Cpxk)
 
 
-![2792102](https://github.com/user-attachments/assets/b78380e4-4a78-45cb-8d2e-ffbb8859a0e6)
+
 
 
 
