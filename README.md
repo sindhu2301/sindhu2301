@@ -15,7 +15,7 @@ A result-oriented and self-driven analyst with practical experience through mult
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1q0_LOHQpph3l9OvD90z0GTSOgqe6Cpxk](https://drive.google.com/drive/folders/1q0_LOHQpph3l9OvD90z0GTSOgqe6Cpxk)
 
 
-
+![2792102](https://github.com/user-attachments/assets/b78380e4-4a78-45cb-8d2e-ffbb8859a0e6)
 
 
 
