@@ -22,7 +22,7 @@ A result-oriented and self-driven analyst with practical experience through mult
 
 - 📫 How to reach me **sindhudurai35@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1q0_LOHQpph3l9OvD90z0GTSOgqe6Cpxk](https://drive.google.com/drive/folders/1q0_LOHQpph3l9OvD90z0GTSOgqe6Cpxk)
+
 
 
 
