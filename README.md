@@ -20,7 +20,7 @@ A result-oriented and self-driven analyst with practical experience through mult
 
 - 💬 Ask me about **Data Analysis, Data Enrichment, Data Cleansing, Data Visualization, Data Processing, and Project Management.**
 
-- 📫 How to reach me **sindhudurai35@gmail.com**
+- 📫 How to reach me **sindhu.saravanan99@gmail.com**
 
 
 
