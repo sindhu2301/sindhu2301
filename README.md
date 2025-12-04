@@ -8,20 +8,55 @@
 
 
 
-Hi 👋, I'm sindhu
+Hi 👋, I'm Sindhu
 
-A result-oriented and self-driven analyst with practical experience through multiple projects using SQL, Excel, Power BI, and Python. Highly skilled in collecting, synthesizing and summarizing data. Seeking an opportunity where I can utilize my skills to achieve organization goal and enhance my analytical and technical skills.
+A results-driven Data Analyst with hands-on experience in SQL, Excel, Power BI, and Python. I specialize in transforming raw data into meaningful insights that support informed business decisions. Skilled in data cleaning, enrichment, statistical analysis, and dashboard development, with a strong focus on accuracy and clarity.
 
-- 🌱 I’m currently learning **Data analytics.**
+I am also expanding my expertise in AI and Generative AI, learning how AI-driven tools and machine learning fundamentals enhance modern data analytics workflows—such as automated insights, forecasting, and intelligent data processing.
 
-- 👯 I’m looking to collaborate on **all topics related to Data Analytics**
+I am passionate about solving real-world problems using data and AI, and I’m eager to contribute my analytical, technical, and creative skills to dynamic projects.
 
-- 👨‍💻 All of my projects are available at [https://github.com/sindhu2301](https://github.com/sindhu2301)
+🌱 Currently Learning
 
-- 💬 Ask me about **Data Analysis, Data Enrichment, Data Cleansing, Data Visualization, Data Processing, and Project Management.**
+Advanced Data Analytics
 
-- 📫 How to reach me **sindhu.saravanan99@gmail.com**
+AI Basics & Generative AI
 
+Machine Learning Fundamentals
+
+👯 Open to Collaborate On
+
+Data Analytics Projects
+
+AI-Assisted Data Workflows
+
+Visualization & Dashboard Projects
+
+Beginner-Friendly ML Projects
+
+👨‍💻 All My Projects
+
+🔗 GitHub: https://github.com/sindhu2301
+
+💬 Ask Me About
+
+Data Analysis
+
+Data Cleansing & Enrichment
+
+Data Visualization
+
+Data Processing
+
+AI Basics
+
+Generative AI for Data
+
+Project Management
+
+📫 Reach Me At
+
+📧 sindhu.saravanan99@gmail.com
 
 
 
